@@ -1,6 +1,6 @@
 # sequenze_assignmnet
 
-
+apk :  https://drive.google.com/file/d/1earMalaeC2khV0uTQbkQpUQI2bFCyg2f/view?usp=drivesdk
 
 
 Screenshots::
